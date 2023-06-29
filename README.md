@@ -1,9 +1,8 @@
 # California_House_Price_Prediction
-Objective: To predict eligibility for an employee to be promoted or not. 
 
-Approach: Processed the necessary data to perform data analysis. Applied analytical techniques such as the Descriptive statistics, predictive Modelling to the data to extract insights which answers the business requirements. Used Sampling techniques to balance the data. Employee promotion was predicted using 
-various classification models and were evaluated based on the best metrics. 
+**Objective:** The project aims at building a model of housing prices to predict median house values in California using the provided dataset.
 
-Best Model: XGBoost Classifier with F1 score of 0.79
-
-Tools & Techniques Used: Python, Scikit-Learn, Matplotlib, Machine Learning Algorithms and Techniques for Classification models.
+**Approach:** The dataset is Hackathon Dataset taken from Kaggle. It involves cleaning, pre-processing the data and using the appropriate machine learning algorithms for training and validating the model and testing the model for evaluating the model performance. 
+ 
+**Best Model:** Random Forest regressor with R-Square value of 0.7.
+**Tools and Techniques Used:** Python, Scikit-Learn, Matplotlib, Machine Learning Algorithms and Techniques for Regression models.
